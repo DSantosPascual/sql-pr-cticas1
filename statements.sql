@@ -1,14 +1,38 @@
 -- Ejercicio 1: Seleccionar todos los usuarios y sus lenguajes asociados.
 -- Tu respuesta aquí
-
+Juan	Java
+Maria	JavaScript
+Carlos	Python
+Laura	C++
+Pedro	Ruby
+Ana	SQL
+Miguel	PHP
+Sofia	Swift
+Javier	TypeScript
+Luis	Go
+Elena	C#
+Daniel	HTML
+Paula	CSS
+Alejandro	R
+Carmen	Kotlin
+Adrian	Objective-C
+Isabel	Scala
+Hector	Perl
+Raquel	Shell
+Alberto	VB.NET
 
 -- Ejercicio 2: Contar cuántos usuarios hay en total.
 -- Tu respuesta aquí
 
-
+20
 -- Ejercicio 3: Seleccionar los usuarios mayores de 30 años.
 -- Tu respuesta aquí
-
+2	Maria	Lopez	maria.lopez@example.com	32	JavaScript
+6	Ana	Hernandez	ana.hernandez@example.com	35	SQL
+9	Javier	Diaz	javier.diaz@example.com	31	TypeScript
+12	Daniel	Romero	daniel.romero@example.com	33	HTML
+16	Adrian	Molina	adrian.molina@example.com	34	Objective-C
+19	Raquel	Serrano	raquel.serrano@example.com	32	Shell
 
 -- Ejercicio 4: Contar cuántos usuarios saben JavaScript.
 -- Tu respuesta aquí
