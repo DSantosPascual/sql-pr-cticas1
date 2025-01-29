@@ -37,30 +37,33 @@ Alberto	VB.NET
 -- Ejercicio 4: Contar cuántos usuarios saben JavaScript.
 -- Tu respuesta aquí
 
-
+1
 -- Ejercicio 5 OPCION 2: Seleccionar los usuarios que tienen 28 años. 
 -- Tu respuesta aquí
 
-
+1	Juan	Gomez	juan.gomez@example.com	28	Java
+7	Miguel	Perez	miguel.perez@example.com	28	PHP
+14	Alejandro	Ruiz	alejandro.ruiz@example.com	28	R
+20	Alberto	Reyes	alberto.reyes@example.com	28	VB.NET
 -- Ejercicio 6: Encontrar el usuario con el email 'juan.gomez@example.com'.
 -- Tu respuesta aquí
-
+1	Juan	Gomez	juan.gomez@example.com	28	Java
 
 -- Ejercicio 7: Seleccionar los usuarios que saben Java y tienen menos de 25 años.
 -- Tu respuesta aquí
 
-
+null
 -- Ejercicio 8 OPCION 2: Contar cuántos usuarios con edades diferentes saben el lenguaje 'Java'.
 -- Tu respuesta aquí
 
-
+1
 -- Ejercicio 9: Seleccionar los usuarios que no saben ningún lenguaje.
 -- Tu respuesta aquí
-
+null
 
 -- Ejercicio 10: Encontrar el nombre y edad del usuario más joven.
 -- Tu respuesta aquí
-
+Pedro	22
 
 -- Ejercicio 11: Seleccionar los usuarios y sus edades ordenados por edad de forma descendente.
 -- Tu respuesta aquí
