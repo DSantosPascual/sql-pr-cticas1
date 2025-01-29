@@ -67,27 +67,55 @@ Pedro	22
 
 -- Ejercicio 11: Seleccionar los usuarios y sus edades ordenados por edad de forma descendente.
 -- Tu respuesta aquí
-
+Ana	35
+Adrian	34
+Daniel	33
+Maria	32
+Raquel	32
+Javier	31
+Laura	30
+Hector	30
+Elena	29
+Carmen	29
+Juan	28
+Miguel	28
+Alejandro	28
+Alberto	28
+Luis	27
+Sofia	26
+Isabel	26
+Carlos	25
+Paula	24
+Pedro	22
 
 -- Ejercicio 12: Contar cuántos usuarios tienen más de 28 años.
 -- Tu respuesta aquí
 
-
+10
 -- Ejercicio 13: Seleccionar los usuarios cuyo apellido contiene la letra 'a'.
 -- Tu respuesta aquí
-
+4	Laura	Fernandez	laura.fernandez@example.com	30	C++
+5	Pedro	Martinez	pedro.martinez@example.com	22	Ruby
+6	Ana	Hernandez	ana.hernandez@example.com	35	SQL
+8	Sofia	Garcia	sofia.garcia@example.com	26	Swift
+9	Javier	Diaz	javier.diaz@example.com	31	TypeScript
+10	Luis	Sanchez	luis.sanchez@example.com	27	Go
+15	Carmen	Vega	carmen.vega@example.com	29	Kotlin
+16	Adrian	Molina	adrian.molina@example.com	34	Objective-C
+18	Hector	Ortega	hector.ortega@example.com	30	Perl
+19	Raquel	Serrano	raquel.serrano@example.com	32	Shell
 
 -- Ejercicio 14: Encontrar el lenguaje más popular entre los usuarios menores de 30 años.
 -- Tu respuesta aquí
-
+Java	1
 
 -- Ejercicio 15: Seleccionar el usuario  mayor de 25 y que sepa el lenguaje 'TypeScript'.
 -- Tu respuesta aquí
-
+9	Javier	Diaz	javier.diaz@example.com	31	TypeScript
 
 -- Ejercicio 16: Contar cuántos usuarios tienen un lenguaje asociado llamado 'Python'.
 -- Tu respuesta aquí
-
+1
 
 -- Ejercicio 17: Seleccionar los usuarios y sus lenguajes asociados, si tienen alguno, ordenados por nombre de usuario.
 -- Tu respuesta aquí
@@ -95,15 +123,51 @@ Pedro	22
 
 -- Ejercicio 18: Encontrar los usuario con el email que contiene la palabra 'example'.
 -- Tu respuesta aquí
-
+1	Juan	Gomez	juan.gomez@example.com	28	Java
+2	Maria	Lopez	maria.lopez@example.com	32	JavaScript
+3	Carlos	Rodriguez	carlos.rodriguez@example.com	25	Python
+4	Laura	Fernandez	laura.fernandez@example.com	30	C++
+5	Pedro	Martinez	pedro.martinez@example.com	22	Ruby
+6	Ana	Hernandez	ana.hernandez@example.com	35	SQL
+7	Miguel	Perez	miguel.perez@example.com	28	PHP
+8	Sofia	Garcia	sofia.garcia@example.com	26	Swift
+9	Javier	Diaz	javier.diaz@example.com	31	TypeScript
+10	Luis	Sanchez	luis.sanchez@example.com	27	Go
+11	Elena	Moreno	elena.moreno@example.com	29	C#
+12	Daniel	Romero	daniel.romero@example.com	33	HTML
+13	Paula	Torres	paula.torres@example.com	24	CSS
+14	Alejandro	Ruiz	alejandro.ruiz@example.com	28	R
+15	Carmen	Vega	carmen.vega@example.com	29	Kotlin
+16	Adrian	Molina	adrian.molina@example.com	34	Objective-C
+17	Isabel	Gutierrez	isabel.gutierrez@example.com	26	Scala
+18	Hector	Ortega	hector.ortega@example.com	30	Perl
+19	Raquel	Serrano	raquel.serrano@example.com	32	Shell
+20	Alberto	Reyes	alberto.reyes@example.com	28	VB.NET
 
 -- Ejercicio 19: Seleccionar los usuarios que saben al menos un lenguaje y tienen una edad entre 25 y 35 años.
 -- Tu respuesta aquí
-
+1	Juan	Gomez	juan.gomez@example.com	28	Java
+2	Maria	Lopez	maria.lopez@example.com	32	JavaScript
+3	Carlos	Rodriguez	carlos.rodriguez@example.com	25	Python
+4	Laura	Fernandez	laura.fernandez@example.com	30	C++
+6	Ana	Hernandez	ana.hernandez@example.com	35	SQL
+7	Miguel	Perez	miguel.perez@example.com	28	PHP
+8	Sofia	Garcia	sofia.garcia@example.com	26	Swift
+9	Javier	Diaz	javier.diaz@example.com	31	TypeScript
+10	Luis	Sanchez	luis.sanchez@example.com	27	Go
+11	Elena	Moreno	elena.moreno@example.com	29	C#
+12	Daniel	Romero	daniel.romero@example.com	33	HTML
+14	Alejandro	Ruiz	alejandro.ruiz@example.com	28	R
+15	Carmen	Vega	carmen.vega@example.com	29	Kotlin
+16	Adrian	Molina	adrian.molina@example.com	34	Objective-C
+17	Isabel	Gutierrez	isabel.gutierrez@example.com	26	Scala
+18	Hector	Ortega	hector.ortega@example.com	30	Perl
+19	Raquel	Serrano	raquel.serrano@example.com	32	Shell
+20	Alberto	Reyes	alberto.reyes@example.com	28	VB.NET
 
 -- Ejercicio 20: Contar cuántos usuarios tienen un lenguaje asociado llamado 'CSS' y tienen menos de 30 años.
 -- Tu respuesta aquí
-
+1
 
 -- Ejercicio 21: Seleccionar los usuarios que tienen al menos un lenguaje asociado y mostrar la cantidad de lenguajes que tienen.
 -- Tu respuesta aquí
@@ -112,10 +176,29 @@ Pedro	22
 -- Ejercicio 22: Encontrar el lenguaje con más caracteres.
 -- Tu respuesta aquí
 
-
+Objective-C	11
 -- Ejercicio 23: Seleccionar los usuarios y mostrar la concatenación de su nombre y apellido.
 -- Tu respuesta aquí
-
+Juan Gomez
+Maria Lopez
+Carlos Rodriguez
+Laura Fernandez
+Pedro Martinez
+Ana Hernandez
+Miguel Perez
+Sofia Garcia
+Javier Diaz
+Luis Sanchez
+Elena Moreno
+Daniel Romero
+Paula Torres
+Alejandro Ruiz
+Carmen Vega
+Adrian Molina
+Isabel Gutierrez
+Hector Ortega
+Raquel Serrano
+Alberto Reyes
 
 -- Ejercicio 24: Contar cuántos lenguajes diferentes conocen los usuarios mayores de 25 años. 
 -- Tu respuesta aquí
