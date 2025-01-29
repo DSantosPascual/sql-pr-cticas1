@@ -202,11 +202,22 @@ Alberto Reyes
 
 -- Ejercicio 24: Contar cuántos lenguajes diferentes conocen los usuarios mayores de 25 años. 
 -- Tu respuesta aquí
-
+17
 
 -- Ejercicio 25: Seleccionar los usuarios que tienen exactamente la misma edad.
 -- Tu respuesta aquí
-
+Juan	28
+Maria	32
+Laura	30
+Miguel	28
+Sofia	26
+Elena	29
+Alejandro	28
+Carmen	29
+Isabel	26
+Hector	30
+Raquel	32
+Alberto	28
 
 -- Ejercicio 26: Encontrar el usuario con el lenguaje con mayor número de carácteres y que tenga una edad menor de 30 años. 
 -- Tu respuesta aquí
@@ -218,7 +229,7 @@ Alberto Reyes
 
 -- Ejercicio 28: Contar cuántos usuarios tienen un apellido que comienza con la letra 'G'.
 -- Tu respuesta aquí
-
+3
 
 -- Ejercicio 29: Seleccionar los usuarios que tienen lenguajes que empiecen por 'J' y mostrar solo el que tiene menos caracteres. 
 -- Tu respuesta aquí
